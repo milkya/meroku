@@ -1,0 +1,921 @@
+{
+  "no00": {
+    "Order": "no00",
+    "ID": "083",
+    "Name": "新しい時代の初等中等教育の在り方特別部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00013.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00012.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00009.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00006.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00005.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00004.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00007.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/083/siryo/1422565_00001.htm"
+    ]
+  },
+  "no01": {
+    "Order": "no01",
+    "ID": "084",
+    "Name": "新しい時代の高等学校教育の在り方ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422863_00007.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422863_00005.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422863_00003.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422863_00002.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422863_00001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422863.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1422856.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/084/siryo/1421676.htm"
+    ]
+  },
+  "no02": {
+    "Order": "no02",
+    "ID": "079",
+    "Name": "学校における働き方改革特別部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1412462.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1412461.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1412460.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1411052.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1410372.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1410314.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1410289.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1410312.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1407638.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1407077.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1405542.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1403745.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1402327.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1402618.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1402325.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1399233.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1398276.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1398108.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1397630.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1397073.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/079/siryo/1393810.htm"
+    ]
+  },
+  "no03": {
+    "Order": "no03",
+    "ID": "052",
+    "Name": "チームとしての学校・教職員の在り方に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1381675.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1381672.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1381667.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1381658.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368983.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368982.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368981.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368980.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368979.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368978.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368975.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368974.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368973.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368972.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368970.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368969.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/052/siryo/1368967.htm"
+    ]
+  },
+  "no04": {
+    "Order": "no04",
+    "ID": "051",
+    "Name": "小中一貫教育特別部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1355608.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1355607.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1355606.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1355532.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1353811.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1355530.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1353484.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/051/siryo/1353474.htm"
+    ]
+  },
+  "no05": {
+    "Order": "no05",
+    "ID": "047",
+    "Name": "高等学校教育部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1349731.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1351593.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1351597.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1351601.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo12/gijiroku/1345989.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1351602.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1351603.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1351993.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352002.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352054.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352056.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352326.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352325.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352323.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352321.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1352319.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1331704.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1330756.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1329173.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1324907.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1323307.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1323295.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1320233.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1320186.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1319354.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1317017.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1314930.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/047/gijiroku/1313992.htm"
+    ]
+  },
+  "no06": {
+    "Order": "no06",
+    "ID": "002",
+    "Name": "教員養成部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412213_00002.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412213_00001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412213.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412212_00001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412212_00005.htm",
+      "https://www.mext.go.jp/b_menu/shingi/mext_00381.html",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1410825_00005.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412212_00004.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1412212.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1410825.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1410529.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1399798.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/gijiroku/1395425.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/002/kondankai/1362425.htm"
+    ]
+  },
+  "no07": {
+    "Order": "no07",
+    "ID": "037",
+    "Name": "教員養成部会 教員免許更新制等ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/037/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/037/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no08": {
+    "Order": "no08",
+    "ID": "003",
+    "Name": "教員養成部会 特殊教育免許の総合化に関するワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/003/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/003/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no09": {
+    "Order": "no09",
+    "ID": "007",
+    "Name": "教員養成部会 栄養教諭免許制度の在り方に関するワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/007/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/007/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no10": {
+    "Order": "no10",
+    "ID": "040",
+    "Name": "教員養成部会 教員免許制度ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/040/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/040/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/040/siryo/1212802.htm"
+    ]
+  },
+  "no11": {
+    "Order": "no11",
+    "ID": "023",
+    "Name": "教員養成部会 専門職大学院ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/023/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/023/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no12": {
+    "Order": "no12",
+    "ID": "050",
+    "Name": "教員養成部会 教員の養成・採用・研修の改善に関するワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/050/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/050/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/050/siryo/1352271.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/050/siryo/1351141.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/050/siryo/1349982.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/050/siryo/1348358.htm"
+    ]
+  },
+  "no13": {
+    "Order": "no13",
+    "ID": "081",
+    "Name": "教員養成部会 教職課程の基準に関するワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/081/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/081/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no14": {
+    "Order": "no14",
+    "ID": "082",
+    "Name": "教員養成部会 教員養成のフラッグシップ大学検討ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1423069_00002.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1423069_00003.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1423069_00001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1423069.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1420975.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1420738.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1419626.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/082/siryo/1418256.htm"
+    ]
+  },
+  "no15": {
+    "Order": "no15",
+    "ID": "004",
+    "Name": "教育課程部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/mext_00401.html",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/mext_00214.html",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/mext_00176.html",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/mext_00085.html",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1422568.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1421944_00001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1421944.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1413712.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412416.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1412414.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1412412.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1412277.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1402919.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1402918.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gijiroku/1402917.htm"
+    ]
+  },
+  "no16": {
+    "Order": "no16",
+    "ID": "080",
+    "Name": "教育課程部会　児童生徒の学習評価に関するワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412418.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412416_00001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412410.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412409.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412407.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412406.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1412258.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1410577.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1410576.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1410575.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1402921.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/080/siryo/1402920.htm"
+    ]
+  },
+  "no17": {
+    "Order": "no17",
+    "ID": "053",
+    "Name": "教育課程部会　教育課程企画特別部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381878.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381879.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381880.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381882.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381883.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381887.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381890.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381894.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381899.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381900.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381901.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381904.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1381906.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1365219.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1365752.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1362100.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1362088.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1362086.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1362084.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1360882.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1360876.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1359504.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1358480.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1358292.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1357959.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/053/siryo/1355912.htm"
+    ]
+  },
+  "no18": {
+    "Order": "no18",
+    "ID": "055",
+    "Name": "教育課程部会　学校段階等別・教科等別ワーキンググループ等（開催案内）",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/055/index.htm",
+    "MinutesListURL": "",
+    "MinutesURLs": null
+  },
+  "no19": {
+    "Order": "no19",
+    "ID": "057",
+    "Name": "教育課程部会　幼児教育部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382037.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382036.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382034.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382032.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382016.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382013.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1382010.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1379059.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1379058.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/057/siryo/1379057.htm"
+    ]
+  },
+  "no20": {
+    "Order": "no20",
+    "ID": "074",
+    "Name": "教育課程部会　小学校部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382092.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382091.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382090.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382088.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382086.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382085.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/074/siryo/1382084.htm"
+    ]
+  },
+  "no21": {
+    "Order": "no21",
+    "ID": "076",
+    "Name": "教育課程部会　中学校部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/076/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/076/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/076/siryo/1382083.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/076/siryo/1382082.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/076/siryo/1382081.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/076/siryo/1382080.htm"
+    ]
+  },
+  "no22": {
+    "Order": "no22",
+    "ID": "075",
+    "Name": "教育課程部会　高等学校部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/siryo/1382076.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/siryo/1382075.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/siryo/1382073.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/siryo/1382072.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/075/siryo/1382070.htm"
+    ]
+  },
+  "no23": {
+    "Order": "no23",
+    "ID": "063",
+    "Name": "教育課程部会　特別支援教育部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1374423.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1373632.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1371480.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1367632.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1366673.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1366279.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1366277.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1365017.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/063/siryo/1365008.htm"
+    ]
+  },
+  "no24": {
+    "Order": "no24",
+    "ID": "061",
+    "Name": "教育課程部会　総則・評価特別部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1382099.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1382098.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1382097.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1382096.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1382095.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1382094.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1368851.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1368093.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1366431.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/061/siryo/1365153.htm"
+    ]
+  },
+  "no25": {
+    "Order": "no25",
+    "ID": "068",
+    "Name": "教育課程部会　国語ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383679.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383677.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383675.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383673.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383642.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383636.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383628.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/068/siryo/1383625.htm"
+    ]
+  },
+  "no26": {
+    "Order": "no26",
+    "ID": "056",
+    "Name": "教育課程部会　言語能力の向上に関する特別チーム",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/siryo/1383588.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/siryo/1383586.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/siryo/1383584.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/siryo/1383582.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/siryo/1383579.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/056/siryo/1383577.htm"
+    ]
+  },
+  "no27": {
+    "Order": "no27",
+    "ID": "058",
+    "Name": "教育課程部会　外国語ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382161.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382160.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382159.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382158.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382157.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382156.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382155.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382154.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382153.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/058/siryo/1382152.htm"
+    ]
+  },
+  "no28": {
+    "Order": "no28",
+    "ID": "071",
+    "Name": "教育課程部会　社会・地理歴史・公民ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381970.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381965.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381963.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381962.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381960.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381959.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381958.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381957.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381955.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381944.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381943.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381942.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1381941.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/071/siryo/1376662.htm"
+    ]
+  },
+  "no29": {
+    "Order": "no29",
+    "ID": "062",
+    "Name": "教育課程部会　高等学校の地歴・公民科科目の在り方に関する特別チーム",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/siryo/1381953.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/siryo/1381949.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/siryo/1381940.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/siryo/1381939.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/062/siryo/1381938.htm"
+    ]
+  },
+  "no30": {
+    "Order": "no30",
+    "ID": "073",
+    "Name": "教育課程部会　算数・数学ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1382009.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1382003.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1382002.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1381999.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1381989.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1381985.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1381983.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/073/siryo/1381979.htm"
+    ]
+  },
+  "no31": {
+    "Order": "no31",
+    "ID": "070",
+    "Name": "教育課程部会　高等学校の数学・理科にわたる探究的科目の在り方に関する特別チーム",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/siryo/1382039.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/siryo/1382038.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/siryo/1382035.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/siryo/1382033.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/070/siryo/1382030.htm"
+    ]
+  },
+  "no32": {
+    "Order": "no32",
+    "ID": "060",
+    "Name": "教育課程部会　理科ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382027.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382024.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382021.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382019.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382017.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382015.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382014.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/060/siryo/1382011.htm"
+    ]
+  },
+  "no33": {
+    "Order": "no33",
+    "ID": "069",
+    "Name": "教育課程部会　芸術ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383622.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383619.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383617.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383615.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383612.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383609.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383606.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/069/siryo/1383594.htm"
+    ]
+  },
+  "no34": {
+    "Order": "no34",
+    "ID": "065",
+    "Name": "教育課程部会　家庭、技術・家庭ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382048.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382047.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382046.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382044.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382043.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382042.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382041.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/065/siryo/1382040.htm"
+    ]
+  },
+  "no35": {
+    "Order": "no35",
+    "ID": "059",
+    "Name": "教育課程部会　情報ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/giji_list/1364461.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382093.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382089.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382078.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382074.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382065.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382062.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382052.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/059/siryo/1382051.htm"
+    ]
+  },
+  "no36": {
+    "Order": "no36",
+    "ID": "072",
+    "Name": "教育課程部会　体育・保健体育、健康、安全ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1381969.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1381968.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1381967.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1381964.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1381952.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1368279.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1368278.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1368277.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/072/siryo/1368276.htm"
+    ]
+  },
+  "no37": {
+    "Order": "no37",
+    "ID": "078",
+    "Name": "教育課程部会　考える道徳への転換に向けたワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/078/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/078/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no38": {
+    "Order": "no38",
+    "ID": "064",
+    "Name": "教育課程部会　生活・総合的な学習の時間ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/064/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/064/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no39": {
+    "Order": "no39",
+    "ID": "066",
+    "Name": "教育課程部会　特別活動ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/066/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/066/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no40": {
+    "Order": "no40",
+    "ID": "067",
+    "Name": "教育課程部会　産業教育ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/067/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/067/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no41": {
+    "Order": "no41",
+    "ID": "038",
+    "Name": "小・中学校の設置・運営の在り方等に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293239.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293238.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293237.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293236.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293235.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293234.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293233.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293232.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1297414.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293231.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293230.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/038/siryo/1293229.htm"
+    ]
+  },
+  "no42": {
+    "Order": "no42",
+    "ID": "041",
+    "Name": "教職員給与の在り方に関するワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417569.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417557.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417089.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417087.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417087.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417085.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1417040.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1416839.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1416839.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1416837.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1416837.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/041/gijiroku/1416835.htm"
+    ]
+  },
+  "no43": {
+    "Order": "no43",
+    "ID": "006",
+    "Name": "教育行財政部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/006/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/006/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1216962.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263759.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263758.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263757.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263756.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263755.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263754.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263753.htm"
+    ]
+  },
+  "no44": {
+    "Order": "no44",
+    "ID": "017",
+    "Name": "教育行財政部会 学校の組織運営に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/017/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/017/giji_list/index.htm",
+    "MinutesURLs": []
+  },
+  "no45": {
+    "Order": "no45",
+    "ID": "008",
+    "Name": "幼児教育部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/008/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/008/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/008/siryo/1212774.htm"
+    ]
+  },
+  "no46": {
+    "Order": "no46",
+    "ID": "009",
+    "Name": "教育条件整備に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/009/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/009/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/009/siryo/1212776.htm"
+    ]
+  },
+  "no47": {
+    "Order": "no47",
+    "ID": "016",
+    "Name": "特別支援教育特別委員会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/016/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/016/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/016/siryo/1216969.htm"
+    ]
+  },
+  "no48": {
+    "Order": "no48",
+    "ID": "044",
+    "Name": "特別支援教育の在り方に関する特別委員会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1325244.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1324625.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1324015.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1323917.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1322778.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1321724.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1321025.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1319415.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1315093.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1311246.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1309946.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1306554.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1302942.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1299860.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1299329.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1298919.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1298631.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1298180.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/044/siryo/1297371.htm"
+    ]
+  },
+  "no49": {
+    "Order": "no49",
+    "ID": "046",
+    "Name": "特別支援教育の在り方に関する特別委員会 合理的配慮等環境整備検討ワーキンググループ",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1321035.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1321034.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1321033.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1319418.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1315090.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1312423.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1312422.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/046/gijiroku/1312421.htm"
+    ]
+  },
+  "no50": {
+    "Order": "no50",
+    "ID": "048",
+    "Name": "幼保連携型認定こども園保育要領（仮称）の策定に関する合同の検討会議",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/siryo/1346588.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/siryo/1346483.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/siryo/1345893.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/siryo/1343251.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/048/siryo/1337510.htm"
+    ]
+  },
+  "no51": {
+    "Order": "no51",
+    "ID": "018",
+    "Name": "総合施設に関する合同の検討会議",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/018/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/018/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/018/siryo/1212794.htm"
+    ]
+  },
+  "no52": {
+    "Order": "no52",
+    "ID": "042",
+    "Name": "学校・教職員の在り方及び教職調整額の見直し等に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/index.html",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1281961.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1268063.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1268062.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1268060.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1268059.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1268058.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/042/siryo/1268055.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263156.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1263145.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/gijiroku/1247431.htm"
+    ]
+  },
+  "no53": {
+    "Order": "no53",
+    "ID": "045",
+    "Name": "学校段階間の連携・接続等に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1339779.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1339778.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1339777.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1321313.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1339776.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1316171.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1315790.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1314967.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1314456.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1313779.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1308614.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1308100.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1304868.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1303604.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1302743.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/045/siryo/1301429.htm"
+    ]
+  },
+  "no54": {
+    "Order": "no54",
+    "ID": "054",
+    "Name": "地域とともにある学校の在り方に関する作業部会",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1366663.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1366660.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1366659.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1363004.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1363003.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1363001.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1363000.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1362998.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1362997.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1362996.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1362995.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/054/siryo/1362696.htm"
+    ]
+  },
+  "no55": {
+    "Order": "no55",
+    "ID": "077",
+    "Name": "学校安全部会（第8期～）",
+    "URL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/index.htm",
+    "MinutesListURL": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/giji_list/index.htm",
+    "MinutesURLs": [
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1408192.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1382426.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1382425.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1382424.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1382422.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1378366.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1378304.htm",
+      "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/077/siryo/1378301.htm"
+    ]
+  }
+}

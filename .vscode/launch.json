@@ -1,0 +1,35 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "download",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/meroku.go",
+            "env": {},
+            "args": ["download", "-all", "true"]
+        },
+        {
+            "name": "parse",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/meroku.go",
+            "env": {},
+            "args": ["parse"]
+        },
+        {
+            "name": "parse-with-memberlist",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/meroku.go",
+            "env": {},
+            "args": ["parse", "-dir", "./data/download_2020-11-07T213718", "-out", "./data/download_2020-11-07T213718/", "-memberlist"]
+        }
+    ]
+}
